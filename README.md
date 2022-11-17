@@ -44,12 +44,14 @@ Total number of rows in data: 119390
 Total number of columns: 32
 
 We tried to answer following questions
+
 Which are the months of highest and least occupation?
 What is the most popular meal package?
 Which is the most reserved room type?
 How many bookings changes have been done during the studied period?
 How many people have been registered in the hotel?
 What is the most common customer type?
+
 Conclusion
   
 *   In this exercise we see if there is any missing values present or not.
