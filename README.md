@@ -60,6 +60,7 @@ Conclusion
 *   In this exercise we see if there is any missing values present or not.
 *   the majority of reservations are for city hotels.
 *    The majority of guests come from western europe countries.
+We should also target months between May to Aug. Those are peak months due to the summer period.
 *   The number of repeated guests is too low.
 *   The majority of reservations converts into successful transactions.
 
