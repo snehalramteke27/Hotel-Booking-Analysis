@@ -56,11 +56,16 @@ How many people have been registered in the hotel?
 What is the most common customer type?
 
 Conclusion
-  
-*   In this exercise we see if there is any missing values present or not.
-*   the majority of reservations are for city hotels.
-*   The majority of guests come from western europe countries.
-*   We should also target months between May to Aug. Those are peak months due to the summer period.
-*   The number of repeated guests is too low.
-*   The majority of reservations converts into successful transactions.
+  1.	City hotels are the most preferred hotel type by guests. We can say the City hotel is the busiest hotel.
+2.	In this exercise we see if there are any missing values present or not.
+3.	the majority of reservations are for city hotels.
+4.	The majority of guests come from western Europe countries.
+5.	Here adr(average daily rate) is correlated with no_of_people. It simply indicates that more revenue is generated when the number of people increases.
+6.	The number of repeated guests is too low.
+7.	Waiting time period for City hotels is high as compared to resort hotels. That means city hotels are much busier than Resort hotels.
+8.	The month of highest occupation is august with 11.65% of the reservations. The months of least 
+9.	The majority of reservations convert into successful transactions.
+
+10.	Resort hotels have the most repeated guests.
+
 
