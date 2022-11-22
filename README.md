@@ -1,12 +1,12 @@
-# Hotel-Booking-Analysis
+#** Hotel-Booking-Analysis**
 
-Objective
+**Objective**
 
 We are provided with a hotel bookings dataset.
 
 Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
 
-Dataset
+**Dataset**
 
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
 - hotel: Name of hotel ( City or Resort)
@@ -46,7 +46,7 @@ We are given a hotel bookings dataset. This dataset contains booking information
 Total number of rows in data: 119390
 Total number of columns: 32
 
-We tried to answer following questions
+**We tried to answer following questions**
 
 Which are the months of highest and least occupation?
 What is the most popular meal package?
@@ -55,7 +55,7 @@ How many bookings changes have been done during the studied period?
 How many people have been registered in the hotel?
 What is the most common customer type?
 
-Conclusion
+**Conclusion**
   1.	City hotels are the most preferred hotel type by guests. We can say the City hotel is the busiest hotel.
 2.	In this exercise we see if there are any missing values present or not.
 3.	the majority of reservations are for city hotels.
